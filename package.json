@@ -1,7 +1,7 @@
 {
   "name": "eclipse-radio-browser-addon",
-  "version": "1.0.0",
-  "description": "Radio Browser live radio addon for Eclipse Music",
+  "version": "1.0.2",
+  "description": "Radio Browser addon for Eclipse Music",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
