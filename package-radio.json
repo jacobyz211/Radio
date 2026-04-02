@@ -1,0 +1,15 @@
+{
+  "name": "eclipse-radio-browser-addon",
+  "version": "1.0.0",
+  "description": "Radio Browser live radio addon for Eclipse Music",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "ioredis": "^5.4.1"
+  }
+}
